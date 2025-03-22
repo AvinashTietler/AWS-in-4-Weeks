@@ -25,5 +25,22 @@ This plan covers fundamental to advanced AWS DevOps concepts, ensuring a well-ro
 
 [Day 7- AWS Monitoring & Logging -CloudWatch, CloudTrail](https://medium.com/@devopsdiariesinfo/aws-monitoring-logging-bcec11593319)
 
+# 2nd Week - AWS Fundamentals & Core Services
+
+[Day 8- Infrastructure as Code](https://medium.com/@devopsdiariesinfo/introduction-to-infrastructure-as-code-iac-83cd36c92a53)
+
+[Day 9- AWS CloudFormation](https://medium.com/@devopsdiariesinfo/aws-cloudformation-c617297e66c3)
+
+[Day 10- AWS with terraform](https://medium.com/@devopsdiariesinfo/terraform-on-aws-56a5ea3f2639)
+
+[Day 11- AWS Elastic Beanstalk](https://medium.com/@devopsdiariesinfo/aws-elastic-beanstalk-a70130a9ea77)
+
+[Day 12- AWS Lambda](https://medium.com/@devopsdiariesinfo/4-week-aws-devops-learning-plan-day-12-e18d105e3d25)
+
+[Day 13- AWS API Gateway](https://medium.com/@devopsdiariesinfo/aws-api-gateway-6c8cfe7befba)
+
+[Day 14- AWS Secrets Manager & Systems Manager](https://medium.com/@devopsdiariesinfo/aws-secrets-manager-systems-manager-38f427e0ebe9)
+
+
 
 
