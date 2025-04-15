@@ -41,6 +41,20 @@ This plan covers fundamental to advanced AWS DevOps concepts, ensuring a well-ro
 
 [Day 14- AWS Secrets Manager & Systems Manager](https://medium.com/@devopsdiariesinfo/aws-secrets-manager-systems-manager-38f427e0ebe9)
 
+# 3rd Week - CI/CD & Automation on AWS
 
+[Day 15-Introduction to CI/CD on AWS](https://medium.com/@devopsdiariesinfo/introduction-to-ci-cd-on-aws-b89ad04bb22c)
+
+[Day 16-AWS CodeCommit & CodeBuild](https://medium.com/@devopsdiariesinfo/aws-codecommit-codebuild-93c3691b01d9)
+
+[Day 17-AWS CodePipeline & CodeDeploy](https://medium.com/@devopsdiariesinfo/aws-codepipeline-codedeploy-efc24171cfc3)
+
+[Day 18-Jenkins on AWS](https://medium.com/@devopsdiariesinfo/jenkins-on-aws-5c973544a948)
+
+[Day 19-AWS ECS & EKS -Containers & Kubernetes](https://medium.com/@devopsdiariesinfo/aws-ecs-eks-containers-kubernetes-3a57c7c38e26)
+
+[Day 20-AWS EKS -Kubernetes on AWS](https://medium.com/@devopsdiariesinfo/aws-eks-kubernetes-on-aws-475604720eef)
+
+[Day 21-AWS Fargate & Serverless Containers](https://medium.com/@devopsdiariesinfo/aws-fargate-serverless-containers-a5d2be2872f2?sk=683dce55c27f393db925f85a228410bb)
 
 
