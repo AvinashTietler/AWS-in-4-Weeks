@@ -57,4 +57,18 @@ This plan covers fundamental to advanced AWS DevOps concepts, ensuring a well-ro
 
 [Day 21-AWS Fargate & Serverless Containers](https://medium.com/@devopsdiariesinfo/aws-fargate-serverless-containers-a5d2be2872f2?sk=683dce55c27f393db925f85a228410bb)
 
+# 4th Week - Security,scaling and Cost Optimisation
 
+[Day 22: AWS Security Best Practices](https://medium.com/@devopsdiariesinfo/aws-security-best-practices-6184b3f50a34)
+
+[Day 23: AWS Backup](https://medium.com/@devopsdiariesinfo/how-to-use-aws-backup-effectively-2aa0126994fe)
+
+[24: AWS Disaster Recovery](https://medium.com/@devopsdiariesinfo/aws-disaster-recovery-plan-starts-here-a647d18cf297)
+
+[Day 25: AWS Cost Management & Optimization](https://medium.com/@devopsdiariesinfo/aws-cost-management-optimization-d018ec03bec3?sk=a421e690a43c7ab4f62335446f58a50e)
+
+[Day 26: Observability & Troubleshooting AWS Applications](https://medium.com/@devopsdiariesinfo/master-observability-troubleshooting-like-a-pro-79d597df869c?sk=68efec14b87a7012db696a6fb0ae0286)
+
+[Day 27: Hybrid Cloud & Multi-Cloud Strategies](https://medium.com/@devopsdiariesinfo/hybrid-vs-multi-cloud-strategy-every-enterprise-must-know-1790e8b574f0)
+
+[Day 28: Migration to the Cloud](https://medium.com/@devopsdiariesinfo/aws-migration-strategies-3f0ece8320e3)
